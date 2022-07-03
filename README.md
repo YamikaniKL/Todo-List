@@ -11,4 +11,4 @@ https://yamikanikl.github.io/YamikaniKL.io/
 
 ## License & copyright
 
-© Jay B. Crisostomo
+© Yaikani Kalonge
