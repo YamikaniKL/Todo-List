@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Changa+One&display=swap");
+
+.welcome {
+  height: 100vh;
+  width: 100vw;
+  background: linear-gradient(122.19deg, #da2079 1.89%, #2a00d5 113.56%);
+  position: relative;
+  overflow: hidden;
+}
+
+.welcome > h1 {
+  /* TO DO LIST */
+  font-family: 'Anybody';
+  font-weight: 900;
+  font-size: 144px;
+  width: 842px;
+  left: -20px;
+  top: 99px;
+  position: absolute;
+  font-style: normal;
+  color: white;
+}
+.welcome > h2 {
+  /* TO DO LIST */
+  position: absolute;
+width: 641px;
+height: 741px;
+left: 736px;
+top: 104px;
+
+font-family: 'Alumni Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+/* Login/ register container */
+.login-register-container {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 90px 61px;
+  left: 151px;
+  top: 320px;
+  border-radius: 40px;
+  background: #ffffff;
+}
+
+.login-register-container > input {
+  height: 30px;
+  width: 80%;
+  border: 1px solid rgb(128, 128, 128);
+  outline: none;
+  margin-bottom: 15px;
+  font-size: 20px;
+  padding: 5px;
+  border-radius: 40px;
+}
+.login-register-container > button {
+  padding: 10px 30px;
+  border: none;
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+
+.sign-in-register-button {
+ /*sign in/register button*/
+  background: linear-gradient(89.89deg, #E40664 57.82%, #AA06E4 103.84%);
+  font-size: 15px;
+  margin-top: 10px;
+  font-family: "Changa One";
+  font-weight: normal;
+  color: white;
+  border-radius: 40px;
+
+}
+
+.create-account-button {
+  background: none;
+  margin-top: 10px;
+}
+
+
