@@ -11,4 +11,4 @@ https://yamikanikl.github.io/YamikaniKL.io/
 
 ## License & copyright
 
-© Yaikani Kalonge
+© Yamikani Kalonge
