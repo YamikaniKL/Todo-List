@@ -5,10 +5,6 @@
 Description:
 The user will be able to add a todo, create, delete, and update.
 
-Deploy using npm start,
-https://yamikanikl.github.io/YamikaniKL.io/
-
-
 ## License & copyright
 
 © Yamikani Kalonge
